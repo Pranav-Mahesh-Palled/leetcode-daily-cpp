@@ -1,4 +1,4 @@
-# 104-Day LeetCode Challenge — Optimized C++ Solutions
+# Daily LeetCode Challenge — Optimized C++ Solutions
 
 A structured, production-grade repository containing **104 LeetCode problem solutions** in **Modern C++**, refactored and optimized with guidance from Gemini. Each solution emphasizes theoretical time/space optimality, modern C++ idioms, and clean engineering practices.
 
